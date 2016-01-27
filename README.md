@@ -10,7 +10,7 @@ Systemd service to disable gpe4e interrupts on Linux running on MacBook Pro.
 
 ## How to install on Arch Linux
 
-Install package 'macbook_gpe4e_interrupts'
+Install package `macbook_gpe4e_interrupts`
 
 ## License :
 
